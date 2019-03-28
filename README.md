@@ -1,1 +1,3 @@
-# Application de l'interprétabilité des modèles
+# Pré-requis
+
+pip install -r requirements.txt
